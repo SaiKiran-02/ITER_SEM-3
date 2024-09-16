@@ -1,7 +1,7 @@
 
-
+sum = 0
 def calc_checksum(digits):
-    sum = 0
+    global sum
     for i in digits:
         sum = sum + int(i)*(digits.index(i)+1)
     return sum%10

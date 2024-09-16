@@ -1,3 +1,5 @@
+import math
+
 print("""
 
     .-'''-.                                             
@@ -25,6 +27,7 @@ for i in range(1,101):
             if( i**2 + j**2 == k**2):
                 print(f"{i}^2 + {j}^2 = {k}^2   :   {i**2} + {j**2} = {k**2}")
                 count+=1
+
 print(count)
 
 
@@ -48,16 +51,13 @@ print("""
 """)
 
 count1 = 0
-k = 1
 for i in range(1,101):
     for j in range(1,101):
-        if( i**2 + j**2 == k**2):
-            print(f"{i}^2 + {j}^2 = {k}^2   :   {i**2} + {j**2} = {k**2}")
+        k_squared = i**2 + j**2
+        k = int(math.sqrt(k_squared))
+
+        if k_squared == k**2 and k<101:
+            print(f"{i}^2 + {j}^2 = {k}^2   :   {i ** 2} + {j ** 2} = {k ** 2}")
             count1 += 1
-            k += 1
-        else:
-            k+=1
-
-
 
 print(count1)
