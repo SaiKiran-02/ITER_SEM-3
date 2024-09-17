@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ac8918-b84d-4464-aef8-1c46736ea72b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 01.PY" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 01.PY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 05.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 07.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 08.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 06.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 09.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +45,10 @@
     "Python.QUESTION 03.executor": "Run",
     "Python.QUESTION 04.executor": "Run",
     "Python.QUESTION 05.executor": "Run",
+    "Python.QUESTION 06.executor": "Run",
     "Python.QUESTION 07.executor": "Run",
-    "Python.QUESTION 08.executor": "Run",
+    "Python.QUESTION 08.executor": "Debug",
+    "Python.QUESTION 09.executor": "Run",
     "Python.QUESTION 10.executor": "Run",
     "Python.QUESTION 11.executor": "Debug",
     "Python.QUESTION 12.executor": "Debug",
@@ -69,8 +62,8 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.QUESTION 08">
-    <configuration name="QUESTION 02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.QUESTION 05">
+    <configuration name="QUESTION 05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITER_SEM-3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 02/QUESTION 05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QUESTION 03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QUESTION 06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITER_SEM-3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,29 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="QUESTION 04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ITER_SEM-3" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,13 +151,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="QUESTION 09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITER_SEM-3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 03/QUESTION 09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.QUESTION 05" />
+        <item itemvalue="Python.QUESTION 09" />
+        <item itemvalue="Python.QUESTION 06" />
         <item itemvalue="Python.QUESTION 08" />
         <item itemvalue="Python.QUESTION 07" />
-        <item itemvalue="Python.QUESTION 04" />
-        <item itemvalue="Python.QUESTION 03" />
-        <item itemvalue="Python.QUESTION 02" />
       </list>
     </recent_temporary>
   </component>
