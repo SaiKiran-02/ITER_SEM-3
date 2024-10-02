@@ -16,4 +16,6 @@ def sine(x):
 
 theta = m.pi/4
 print(f"sin({theta: 0.4f}) = {sine(theta): 0.4f}")
-print("Actual value = ",m.sin(theta))
+print("Actual v"
+      ""
+      "alue = ",m.sin(theta))
