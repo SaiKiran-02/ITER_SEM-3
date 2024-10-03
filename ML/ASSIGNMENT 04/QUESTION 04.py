@@ -4,22 +4,19 @@ Q 04 Write a python program to replace that character, which is repeated maximum
      each string by ‘-’ (dash).
 '''
 
-
 def max_repeated_replace(str):
-    c = 0
-    s = []
-    for i in range(len(str)):
-        print(str[i] , end = " : ")
-        for j in range(i,len(str)):
-           if str[i] != str[j]:
-               c = c+1
-           else:
-               continue
-        print(c)
-        s.append(((str[i], c)))
-        c = 0
-    print(s)
 
+    dict = {}
+    for i in str:
+        if i in dict:
+            dict[i] += 1
+        else:
+            dict[i] = 1
+
+    max_char = max(dict, key=(dict.get))
+    modified_string = str.replace(max_char, '-')
+
+    return modified_string
 
 
 str = input("enter string: ")

@@ -4,7 +4,7 @@ Q 07 Write a python program to count the number of odd and even length words pre
      string.
 '''
 
-str = "i am a coder and i know how to hack your life."
+str = "Number of even words in 'i am a coder and i know how to hack your life."
 
 l = str.split()
 c_even , c_odd = 0 , 0
