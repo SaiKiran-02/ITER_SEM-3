@@ -8,10 +8,25 @@ Q 08 Write a python program to separate an input word according to the vowels pr
 '''
 
 
-word = input("Enter a word").split()[0]
-l = []
-for i in word:
-    if i.lower() in ['a','e','i','o','u']:
-        l = word.split(i)
+def separate_by_vowels(word):
+    vowels = 'aeiouAEIOU'
+    result = []
+    temp = ''
 
-print(l)
+    for char in word:
+        if char in vowels:
+            if temp:
+                result.append(temp)
+                temp = ''
+        else:
+            temp += char
+
+    if temp:
+        result.append(temp)
+
+    return result
+
+
+# Example usage
+test = 'KlaGt'
+print(separate_by_vowels(test))  # Output: ['Kl', 'Gt']
