@@ -31,3 +31,20 @@ Q 12 Although electronic deposit has become extremely popular, payroll and accou
      [[Hint: In a format string that explicitly specifies alignment with <, ^ or >, you can precede
      the alignment specifier with the fill character of your choice.]]
 '''
+
+
+def check_protected(amt):
+    formatted_amount = f"{amt:.2f}"
+    if len(formatted_amount) <= 10:
+        protected_amount = f"{formatted_amount:*>10}"
+        print("Check amount:", protected_amount)
+        print(" " * len("cheak amount: ")+"-" * 10)
+    else:
+        print("Amount exceeds the allowable limit of 10 characters.")
+
+try:
+    dollar_amount = float(input("Enter amount in Dollar: $"))
+    check_protected(dollar_amount)
+except ValueError:
+    print("Invalid input. Please enter a numeric value.")
+
