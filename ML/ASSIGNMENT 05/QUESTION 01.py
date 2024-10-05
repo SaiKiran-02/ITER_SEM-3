@@ -4,7 +4,7 @@ Q 01 Write a Python program to create a list of integers of size N and store ran
      it. Find and display the sum and average. Create two more lists that contain the even
      and odd values from this list.
 '''
-
+import random as r
 def list_sum(l):
     sum = 0
     for i in l:
@@ -27,7 +27,7 @@ def list_split(l):
 N = int(input("Enter size of list: "))
 l = []
 for i in range(N):
-    item = float(input("Enter item: "))
+    item = r.randint(1,101)
     l.append(item)
 
 print(list_sum(l))
