@@ -13,3 +13,22 @@ the occurrences of each. Assume the input ends with 0.
         23 occurs 1 time
         43 occurs 1 time
 '''
+l = []
+print("Enter 0 to end your inputs.")
+while 1:
+    item = int(input("Enter the integers between 1 to 100: "))
+    l.append(item)
+    if item == 0:
+        break
+    else:
+        continue
+
+c = [l.count(item) for item in l]
+s = []
+for i in range(len(l)-1):
+    if l[i] not in s:
+        print(l[i]," occurs ",l.count(l[i])," times.")
+        s.append(l[i])
+
+
+
