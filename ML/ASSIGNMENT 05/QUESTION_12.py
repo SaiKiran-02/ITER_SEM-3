@@ -7,6 +7,6 @@ Q 12 Create a tuple containing the names of five countries and display the whole
 countries = ("INDIA", "IRAN" , "JAPAN", "RUSSIA", "USA")
 print(countries)
 if __name__ == "__main__":
-    name = input("Enter country name: ")
-    if name.upper() in countries:
-        print(f"{name.index(name)} ---> {name}")
+    name = input("Enter country name: ").upper()
+    if name in countries:
+        print(f"{countries.index(name)} ---> {name}")

@@ -10,10 +10,10 @@ from QUESTION_06 import createMat , showMat
 def multiplyMat(a , b):
     c = [[0 for _ in range(3)] for _ in range(3)]
     if len(a[1]) == len(b):
-        for i in range(len(a)):
-            for j in range(len(b[1])):
-                for k in range(len(b[1])):
-                    c[i][j] += a[i][k] *b [k][i]
+        for i in range(3):
+            for j in range(3):
+                for k in range(3):
+                    c[i][j] += a[i][k] * b[k][j]
     else:
         print("Matrix multiplication not possible.")
 
@@ -32,7 +32,7 @@ showMat(mat2)
 
 resultedMat = multiplyMat(mat1, mat2)
 print("Resulted matrix: ")
-showMat(resultedMat)                                       # transpose required.
+showMat(resultedMat)
 
 
 
