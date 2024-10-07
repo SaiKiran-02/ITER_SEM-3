@@ -12,4 +12,4 @@ Q 11 Write function is_magic_triangle(values) that checks whether a sequence of 
         False
 '''
 
-def is_magic_triangle(l)
+def is_magic_triangle(l):
