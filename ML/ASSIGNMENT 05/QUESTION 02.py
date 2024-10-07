@@ -16,12 +16,17 @@ the occurrences of each. Assume the input ends with 0.
 l = []
 print("Enter 0 to end your inputs.")
 while 1:
-    item = int(input("Enter the integers between 1 to 100: "))
-    l.append(item)
-    if item == 0:
-        break
-    else:
-        continue
+    try:
+        item = int(input("Enter the integers between 1 to 100: "))
+        if type(item) != 'int':
+            l.append(item)
+        if item == 0:
+            break
+        else:
+            continue
+    except Exception as e:
+        print(e)
+        print("Enter Integer numbers only.")
 
 c = [l.count(item) for item in l]
 s = []

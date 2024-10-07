@@ -15,3 +15,20 @@ Q 05 Define a function that returns the sum of all the elements in a specified c
      Sum of the elements at column 3 is 13.0
 '''
 
+l = []
+for i in range(1,4):
+    tem_l = []
+    for j in range(4):
+        item = float(input(f"Enter {i} row element: "))
+        tem_l.append(item)
+    l.append(tem_l)
+
+mat = [print(i) for i in l]
+
+
+for i in range(4):
+    sum = 0
+    for j in range(3):
+        sum += l[j][i]
+    print(f"Sum of the elements at column {i} is {sum}")
+
