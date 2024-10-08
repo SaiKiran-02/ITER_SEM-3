@@ -1,7 +1,7 @@
 '''
 #
-Q 09 A palindrome is a word that reads the same from the front and the back. You can extend
-this definition to the digits of a number. Write recursive function
-is_number_palindrome(number) but without converting the number into a string and
-then using string functionalities like [::-1].
+Q 10 Write a recursive function harmonic_sum(n) to calculate the harmonic sum of first n
+     terms.
+     Note: The harmonic sum is the sum of reciprocals of the positive integers. For example, if
+     n = 4, the output should be (1+1/2+1/3+1/4 ) = 2.0833
 '''
