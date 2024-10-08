@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ac8918-b84d-4464-aef8-1c46736ea72b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 04.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 05.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 06.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +92,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.QUESTION 05">
+  <component name="RunManager" selected="Python.QUESTION 06">
     <configuration name="QUESTION 01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITER_SEM-3" />
       <option name="ENV_FILES" value="" />
@@ -161,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="QUESTION 14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QUESTION 06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITER_SEM-3" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +168,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION 14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.QUESTION 06" />
         <item itemvalue="Python.QUESTION 05" />
         <item itemvalue="Python.QUESTION 02" />
         <item itemvalue="Python.QUESTION 01" />
         <item itemvalue="Python.QUESTION 15" />
-        <item itemvalue="Python.QUESTION 14" />
       </list>
     </recent_temporary>
   </component>
