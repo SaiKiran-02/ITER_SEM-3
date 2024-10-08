@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ac8918-b84d-4464-aef8-1c46736ea72b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 07.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION 02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION 07.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION 07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION 08.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION 08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 05/QUESTION_12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,35 +69,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.QUESTION 01.PY.executor": "Run",
-    "Python.QUESTION 01.executor": "Run",
-    "Python.QUESTION 02.executor": "Run",
-    "Python.QUESTION 03.executor": "Run",
-    "Python.QUESTION 04.executor": "Run",
-    "Python.QUESTION 05.executor": "Run",
-    "Python.QUESTION 06.executor": "Run",
-    "Python.QUESTION 07.executor": "Run",
-    "Python.QUESTION 08.executor": "Run",
-    "Python.QUESTION 09.executor": "Run",
-    "Python.QUESTION 10.executor": "Run",
-    "Python.QUESTION 11.executor": "Run",
-    "Python.QUESTION 12.executor": "Run",
-    "Python.QUESTION 13.executor": "Run",
-    "Python.QUESTION 14.executor": "Run",
-    "Python.QUESTION 15.executor": "Run",
-    "Python.QUESTION_06 (1).executor": "Run",
-    "Python.QUESTION_09 (1).executor": "Run",
-    "Python.QUESTION_09.executor": "Run",
-    "Python.QUESTION_12.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/saiki/ITER/ITER_SEM-3",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.QUESTION 01.PY.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION 15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION_06 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION_09 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION_09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QUESTION_12.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/saiki/ITER/ITER_SEM-3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.QUESTION 15">
     <configuration name="QUESTION 10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITER_SEM-3" />
