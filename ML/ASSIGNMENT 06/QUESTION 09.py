@@ -6,7 +6,6 @@ Q 09 A palindrome is a word that reads the same from the front and the back. You
      then using string functionalities like [::-1].
 '''
 
-
 def is_number_palindrome(number):
     # Helper function to find the reverse of the number recursively
     def is_palindrome_recursive(n, reverse=0):
@@ -21,9 +20,5 @@ def is_number_palindrome(number):
 
     return number == reversed_number
 
-
-print(is_number_palindrome(121))  # True
-print(is_number_palindrome(-121))  # False
-print(is_number_palindrome(10))  # False
-print(is_number_palindrome(12321))  # True
-
+n = int(input("Enter a number: "))
+print(is_number_palindrome(n))
