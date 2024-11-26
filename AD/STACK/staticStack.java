@@ -1,7 +1,7 @@
 
 public class staticStack{
     int top;
-    int stackArray;
+    int stackArray[];
     int maxsize;
 
     public staticStack(int size){
@@ -10,23 +10,25 @@ public class staticStack{
         stackArray = new int[maxsize];
     }
 
-    public static void push(int n){
+    public void push(int n){
         if (top == maxsize-1){
             System.out.println("Stack is overflow.");
         }
         else{
-            System.out.println("element pushed.");
             top++;
+            stackArray[top] = n;
+            System.out.println("element pushed.");
+            System.out.println(stackArray[top]);
         }
     }
 
-    public static void pop(){
+    public  void pop(){
         if (top == -1){
             System.out.println("Stack is underflow");
         }
         else{
             System.out.print("poped element is: ");
-            System.out.println(top);
+            System.out.println(stackArray[top]);
             top--;
         }
     } 
