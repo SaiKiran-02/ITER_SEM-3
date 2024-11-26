@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c5ee79c-5fed-49a9-b2d8-17fb411e3384" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ASSIGNMENT 01/QUESTION_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASSIGNMENT_01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT_01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASSIGNMENT_01/QUESTION_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT_01/QUESTION_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASSIGNMENT_01/QUESTION_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT_01/QUESTION_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASSIGNMENT_01/QUESTION_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT_01/QUESTION_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASSIGNMENT_03/QUESTION_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/ASSIGNMENT_03/QUESTION_04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2mCUJdRFf6brLlOgij3nbmJvJHf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +32,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/saiki/ITER/ITER_SEM-3/AD",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/saiki/ITER/ITER_SEM-3",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>

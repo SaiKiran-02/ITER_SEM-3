@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7ac8918-b84d-4464-aef8-1c46736ea72b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ITER_SEM-3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ITER_SEM-3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/ASSIGNMENT_01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AD/ASSIGNMENT_01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/ASSIGNMENT_01/QUESTION_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/AD/ASSIGNMENT_01/QUESTION_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/ASSIGNMENT_01/QUESTION_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/AD/ASSIGNMENT_01/QUESTION_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/ASSIGNMENT_01/QUESTION_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/AD/ASSIGNMENT_01/QUESTION_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AD/ASSIGNMENT_03/QUESTION_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/AD/ASSIGNMENT_03/QUESTION_04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,36 +70,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.QUESTION 01.PY.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION 15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION_06 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION_09 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION_09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QUESTION_12.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/saiki/ITER/ITER_SEM-3&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.QUESTION 01.PY.executor": "Run",
+    "Python.QUESTION 01.executor": "Run",
+    "Python.QUESTION 02.executor": "Run",
+    "Python.QUESTION 03.executor": "Run",
+    "Python.QUESTION 04.executor": "Run",
+    "Python.QUESTION 05.executor": "Run",
+    "Python.QUESTION 06.executor": "Run",
+    "Python.QUESTION 07.executor": "Run",
+    "Python.QUESTION 08.executor": "Run",
+    "Python.QUESTION 09.executor": "Run",
+    "Python.QUESTION 10.executor": "Run",
+    "Python.QUESTION 11.executor": "Run",
+    "Python.QUESTION 12.executor": "Run",
+    "Python.QUESTION 13.executor": "Run",
+    "Python.QUESTION 14.executor": "Run",
+    "Python.QUESTION 15.executor": "Run",
+    "Python.QUESTION_06 (1).executor": "Run",
+    "Python.QUESTION_09 (1).executor": "Run",
+    "Python.QUESTION_09.executor": "Run",
+    "Python.QUESTION_12.executor": "Run",
+    "Python.ajiGamebaneiba.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/saiki/ITER/ITER_SEM-3",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Python.QUESTION 03">
+}]]></component>
+  <component name="RunManager">
     <configuration name="QUESTION 03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITER_SEM-3" />
       <option name="ENV_FILES" value="" />
@@ -106,72 +116,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="QUESTION 07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ITER_SEM-3" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 02/QUESTION 07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="QUESTION 10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ITER_SEM-3" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="QUESTION 11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ITER_SEM-3" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,22 +146,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.QUESTION 03" />
-        <item itemvalue="Python.QUESTION 12" />
-        <item itemvalue="Python.QUESTION 11" />
-        <item itemvalue="Python.QUESTION 10" />
-        <item itemvalue="Python.QUESTION 07" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
-      </set>
-    </attachedChunks>
+    <configuration name="QUESTION 14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITER_SEM-3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QUESTION 15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITER_SEM-3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 06/QUESTION 15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ajiGamebaneiba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ITER_SEM-3" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ML/ASSIGNMENT 06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ML/ASSIGNMENT 06/ajiGamebaneiba.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

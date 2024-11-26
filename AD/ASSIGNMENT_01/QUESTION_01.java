@@ -15,7 +15,7 @@ public class QUESTION_01{
 
        System.out.println("sum of ");
        System.out.println(n);
-       System.out.println(" natural number is : ");
+       System.out.print(" natural number is : ");
        System.out.println(sum);
 
        sc.close();

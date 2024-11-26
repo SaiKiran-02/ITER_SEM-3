@@ -10,7 +10,6 @@ public class QUESTION_02{
                 min = arr[i];
             }
         }
-
         return min;
     }
 
